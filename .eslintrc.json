@@ -3,7 +3,7 @@
     "next/core-web-vitals",
     "plugin:storybook/recommended"
   ],
-  "ignores": [
-    "stories/**/*",
+  "ignorePatterns": [
+    "src/stories/**"
   ]
 }
